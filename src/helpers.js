@@ -15,6 +15,7 @@ export const convertMoney = money => {
 };
 
 
+//super-refactor
 export const isPersistedState = stateName => {
   const sessionState = sessionStorage.getItem(stateName);
   return sessionState && JSON.parse(sessionState);
