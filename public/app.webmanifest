@@ -1,6 +1,6 @@
 {
-  "name": "Web App Manifest Demo",
-  "short_name": "ManifestDemo",
+  "name": "React Movie",
+  "short_name": "ReactMovie",
   "theme_color": "red",
   "background_color": "silver",
   "start_url": "./",
